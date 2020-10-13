@@ -1,0 +1,7 @@
+Methodology Implemented:::
+
+1. Through the paper attached, the plots of Figure 13 are used to map with the corresponding image files based on time stamnps
+The plots are digitised using web plot digitiser. The image of plot and runs_excel_files are presented.
+2. Once plots are digitised, map the image data of the 9 runs * 2 stages to the corresponding recovery percentage based on the time stamp pertaining to the each image.
+3.These results are stores in AllRunsmapped.csv file. [Image file path,recovery and additional attributes]
+4. Combine all this input data to develop model:: AllRunsRandomised model & Model through Splitting_by_runs for each of Lead and Zinc recovery predictions.
